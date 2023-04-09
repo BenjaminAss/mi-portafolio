@@ -2,8 +2,7 @@
 
 Este es un porfolio creado con tkinter y python en VSC
 
-## Autor - 
-**NOMBRE**
+## Autor - Benjamin Assennato
 
 *[LinkedIn](https://www.linkedin.com/in/benjamin-assennato-00ab80240/)
 
