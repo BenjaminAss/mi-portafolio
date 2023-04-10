@@ -5,7 +5,9 @@ Este es un porfolio creado con tkinter y python en VSC
 ## Autor - Benjamin Assennato
 
 *[LinkedIn](https://www.linkedin.com/in/benjamin-assennato-00ab80240/)
-*[Github](https://benjaminass.github.io/mi-portafolio/)
+
+## Ver ejemplo
+(https://benjaminass.github.io/mi-portafolio/)
 
 ## Instalación
 
